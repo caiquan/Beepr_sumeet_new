@@ -1,0 +1,1 @@
+../../../catalyze-ios-sdk/catalyze-ios-sdk/NSObject+Properties.h

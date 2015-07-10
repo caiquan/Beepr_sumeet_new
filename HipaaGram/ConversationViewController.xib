@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="7706" systemVersion="14D136" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES">
+    <dependencies>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="7703"/>
+        <capability name="Constraints to layout margins" minToolsVersion="6.0"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner" customClass="ConversationViewController">
+            <connections>
+                <outlet property="bottomConstraint" destination="CZt-jh-XE2" id="uWS-dY-5VJ"/>
+                <outlet property="bottomTableConstraint" destination="qtn-x8-uyx" id="L5h-lB-udI"/>
+                <outlet property="btnSend" destination="Ec8-1T-ZuQ" id="rxV-ee-6Nh"/>
+                <outlet property="tblMessages" destination="pKj-ns-eaE" id="0MN-Wk-Sa2"/>
+                <outlet property="topTableConstraint" destination="g1E-5W-PGK" id="XZc-2h-77B"/>
+                <outlet property="txtMessage" destination="6Dq-SS-j9h" id="ofE-X2-D5i"/>
+                <outlet property="view" destination="i5M-Pr-FkT" id="SKG-d4-Jle"/>
+            </connections>
+        </placeholder>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <view clearsContextBeforeDrawing="NO" contentMode="scaleToFill" id="i5M-Pr-FkT">
+            <rect key="frame" x="0.0" y="64" width="600" height="600"/>
+            <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+            <subviews>
+                <tableView clipsSubviews="YES" contentMode="scaleToFill" alwaysBounceVertical="YES" style="plain" separatorStyle="none" allowsSelection="NO" rowHeight="44" sectionHeaderHeight="22" sectionFooterHeight="22" translatesAutoresizingMaskIntoConstraints="NO" id="pKj-ns-eaE">
+                    <rect key="frame" x="0.0" y="0.0" width="600" height="554"/>
+                    <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                    <connections>
+                        <outlet property="dataSource" destination="-1" id="nnU-uq-mab"/>
+                        <outlet property="delegate" destination="-1" id="7Jj-6i-AbD"/>
+                    </connections>
+                </tableView>
+                <textField opaque="NO" clipsSubviews="YES" contentMode="scaleToFill" contentHorizontalAlignment="left" contentVerticalAlignment="center" borderStyle="roundedRect" minimumFontSize="17" translatesAutoresizingMaskIntoConstraints="NO" id="6Dq-SS-j9h">
+                    <rect key="frame" x="0.0" y="562" width="542" height="30"/>
+                    <constraints>
+                        <constraint firstAttribute="height" constant="30" id="e34-L8-b1r"/>
+                    </constraints>
+                    <fontDescription key="fontDescription" type="system" pointSize="14"/>
+                    <textInputTraits key="textInputTraits"/>
+                    <connections>
+                        <outlet property="delegate" destination="-1" id="0yP-PE-n5Q"/>
+                    </connections>
+                </textField>
+                <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="Ec8-1T-ZuQ">
+                    <rect key="frame" x="550" y="562" width="50" height="30"/>
+                    <constraints>
+                        <constraint firstAttribute="width" constant="50" id="Bme-lY-c21"/>
+                    </constraints>
+                    <state key="normal" title="Send">
+                        <color key="titleColor" red="0.20000000000000001" green="0.70980392160000005" blue="0.8980392157" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                        <color key="titleShadowColor" white="0.5" alpha="1" colorSpace="calibratedWhite"/>
+                    </state>
+                    <state key="disabled">
+                        <color key="titleColor" white="0.66666666666666663" alpha="1" colorSpace="calibratedWhite"/>
+                    </state>
+                    <connections>
+                        <action selector="sendMessage:" destination="-1" eventType="touchUpInside" id="8Ah-0Z-opp"/>
+                    </connections>
+                </button>
+            </subviews>
+            <color key="backgroundColor" red="0.96078431372549022" green="0.96078431372549022" blue="0.96078431372549022" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+            <constraints>
+                <constraint firstAttribute="bottom" secondItem="6Dq-SS-j9h" secondAttribute="bottom" constant="8" id="CZt-jh-XE2"/>
+                <constraint firstItem="6Dq-SS-j9h" firstAttribute="leading" secondItem="i5M-Pr-FkT" secondAttribute="leadingMargin" constant="-8" id="OHQ-rY-Hef"/>
+                <constraint firstItem="Ec8-1T-ZuQ" firstAttribute="top" secondItem="6Dq-SS-j9h" secondAttribute="top" id="TX4-Jt-Gda"/>
+                <constraint firstItem="6Dq-SS-j9h" firstAttribute="bottom" secondItem="Ec8-1T-ZuQ" secondAttribute="bottom" id="eQr-q9-Rd5"/>
+                <constraint firstItem="pKj-ns-eaE" firstAttribute="leading" secondItem="i5M-Pr-FkT" secondAttribute="leading" id="eU1-Fe-ylL"/>
+                <constraint firstItem="pKj-ns-eaE" firstAttribute="top" secondItem="i5M-Pr-FkT" secondAttribute="top" id="g1E-5W-PGK"/>
+                <constraint firstItem="Ec8-1T-ZuQ" firstAttribute="leading" secondItem="6Dq-SS-j9h" secondAttribute="trailing" constant="8" symbolic="YES" id="k0h-LF-XWE"/>
+                <constraint firstAttribute="trailing" secondItem="pKj-ns-eaE" secondAttribute="trailing" id="kmH-YQ-Pk2"/>
+                <constraint firstItem="6Dq-SS-j9h" firstAttribute="top" secondItem="pKj-ns-eaE" secondAttribute="bottom" constant="8" symbolic="YES" id="qtn-x8-uyx"/>
+                <constraint firstItem="Ec8-1T-ZuQ" firstAttribute="trailing" secondItem="i5M-Pr-FkT" secondAttribute="trailingMargin" constant="8" id="tTo-X8-Z3p"/>
+            </constraints>
+            <point key="canvasLocation" x="305" y="272"/>
+        </view>
+    </objects>
+</document>

@@ -1,0 +1,177 @@
+2015-06-29 23:33:24.505 Skype[8884:111705] -[SkypeAPIController init] Failed to set up connection in API controller
+2015-06-29 23:34:09.904 Skype[8884:111705] Application is not entitled to access AddressBook contacts
+2015-06-29 23:35:11.903 Skype[8884:111705] -[SkypeHomeViewController webView:resource:didFailLoadingWithError:fromDataSource:]: timeout on loading resource at URL https://apps.skype.com/home/
+<<<< MediaValidator >>>> mv_ValidateRFC4281CodecId: Unrecognized codec 1.(null). Failed codec specific check.
+<<<< MediaValidator >>>> mv_LookupCodecSupport: Unrecognized codec 1
+[00:57:50.011] mv_LowLevelCheckIfVideoPlayableUsingDecoder signalled err=-12956 (kFigMediaValidatorError_VideoCodecNotSupported) (video codec 1) at  line 1851
+<<<< MediaValidator >>>> mv_TestCodecSupportUsingDecoders: Unrecognized codec 1
+<<<< MediaValidator >>>> mv_ValidateRFC4281CodecId: Unrecognized codec 1.(null). Failed codec specific check.
+<<<< MediaValidator >>>> mv_LookupCodecSupport: Unrecognized codec 1
+[00:57:50.011] mv_LowLevelCheckIfVideoPlayableUsingDecoder signalled err=-12956 (kFigMediaValidatorError_VideoCodecNotSupported) (video codec 1) at  line 1851
+<<<< MediaValidator >>>> mv_TestCodecSupportUsingDecoders: Unrecognized codec 1
+2015-06-30 05:34:17.584 Skype[8884:111705] -[WebAdapterWebViewController(WebResourceLoadDelegate) webView:resource:didFailLoadingWithError:fromDataSource:]: WebAdapter resource 1 load failed with error Error Domain=NSURLErrorDomain Code=-1003 "A server with the specified hostname could not be found." UserInfo=0x10fff6a00 {NSUnderlyingError=0x111f2e7e0 "A server with the specified hostname could not be found.", NSErrorFailingURLStringKey=https://connect.facebook.net/en_US/sdk.js, NSErrorFailingURLKey=https://connect.facebook.net/en_US/sdk.js, _kCFStreamErrorDomainKey=12, _kCFStreamErrorCodeKey=8, NSLocalizedDescription=A server with the specified hostname could not be found.}
+2015-06-30 08:48:06.691 Skype[8884:111910] NSURLConnection/CFURLConnection HTTP load failed (kCFStreamErrorDomainSSL, -9812)
+2015-06-30 16:36:47.679 Skype[8884:111910] CFNetwork SSLHandshake failed (-9806)
+2015-06-30 16:36:51.546 Skype[8884:111910] CFNetwork SSLHandshake failed (-9802)
+2015-06-30 16:36:52.969 Skype[8884:111910] CFNetwork SSLHandshake failed (-9802)
+2015-06-30 16:36:52.969 Skype[8884:111910] NSURLConnection/CFURLConnection HTTP load failed (kCFStreamErrorDomainSSL, -9802)
+2015-06-30 16:45:55.595 Skype[8884:111910] CFNetwork SSLHandshake failed (-9806)
+2015-06-30 16:45:56.998 Skype[8884:111910] CFNetwork SSLHandshake failed (-9802)
+2015-06-30 16:46:27.069 Skype[8884:111910] CFNetwork SSLHandshake failed (-9806)
+2015-06-30 16:46:32.525 Skype[8884:111910] CFNetwork SSLHandshake failed (-9824)
+2015-06-30 16:46:32.526 Skype[8884:111910] NSURLConnection/CFURLConnection HTTP load failed (kCFStreamErrorDomainSSL, -9824)
+2015-06-30 16:46:33.809 Skype[8884:111910] CFNetwork SSLHandshake failed (-9824)
+2015-06-30 16:46:33.810 Skype[8884:111910] NSURLConnection/CFURLConnection HTTP load failed (kCFStreamErrorDomainSSL, -9824)
+2015-06-30 16:46:37.857 Skype[8884:111910] CFNetwork SSLHandshake failed (-9824)
+2015-06-30 16:46:37.857 Skype[8884:111910] NSURLConnection/CFURLConnection HTTP load failed (kCFStreamErrorDomainSSL, -9824)
+2015-06-30 16:51:28.522 Skype[8884:111705] -[SkypeHomeViewController webView:resource:didFailLoadingWithError:fromDataSource:]: timeout on loading resource at URL (null)
+2015-06-30 17:20:50.947 Skype[8884:111705] -[SkypeHomeViewController webView:resource:didFailLoadingWithError:fromDataSource:]: timeout on loading resource at URL https://az361816.vo.msecnd.net/flextag/flextag.html?guid=fe4e1784-6095-48f7-8fa2-84975f30fc41
+2015-06-30 17:22:59.066 Skype[8884:111910] CFNetwork SSLHandshake failed (-9806)
+2015-06-30 17:35:22.068 Skype[8884:111705] -[WebAdapterWebViewController(WebResourceLoadDelegate) webView:resource:didFailLoadingWithError:fromDataSource:]: WebAdapter resource 0 load failed with error Error Domain=NSURLErrorDomain Code=-1001 "The request timed out." UserInfo=0x11a7ee0a0 {NSUnderlyingError=0x111a188c0 "The request timed out.", NSErrorFailingURLStringKey=https://apps.skype.com/adapter/facebook/, NSErrorFailingURLKey=https://apps.skype.com/adapter/facebook/, NSLocalizedDescription=The request timed out.}
+2015-06-30 18:01:39.908 Skype[8884:111910] CFNetwork SSLHandshake failed (-9806)
+2015-06-30 18:02:22.646 Skype[8884:111705] -[SkypeHomeViewController webView:resource:didFailLoadingWithError:fromDataSource:]: timeout on loading resource at URL http://lax1.ib.adnxs.com/if?e=wqT_3QL4A6jvAQAAAgDWAAUIndLJrAUQzJqVl9bc851eGMi0s5qLvs-1SiABKi0JAAAABQIAEQUGDAAAABkBBRAAABhAIQkJCAAAKREJqDCw9mk4mAJAmAJIAlDwy4UPWOPbDGAAaL-KAXAAeOnSA4ABAYoBA1VTRJIFBvBMmAGsAqAB-gGoAQCwAQC4AQLAAQTIAQDQAQDYAQDgAQDwAQD6AQhTS1lVU0VONIoCOnVmKCdhJywgMzMyODYwLCAxNDM1NjU4NTI1KTsBHCxyJywgMzE1NDg5MTI2HgDwZpICnQEhZ3g2QXVRaWNuclVFRVBETGhROFlBQ0RqMnd3d0JEZ0FRQVJJbUFKUXNQWnBXQUJnX19fX193OW9BSEFCZUFHQUFRR0lBUUdRQVFHWUFRR2dBUktvQVFPd0FRQzVBUUFBQUEJAwh3UUUJCQEBOE1rQjlYd01jbDh6OGpfWhUoHFBBXzRBRUE5DSwkmgIdIVlRWlFPZzagAPBPNDlzTUlBUS7YAqwG4AKKmgnqAglza3lwZS5jb22AAwCIAwGQAwCYAwCgAwGqAwCwAwC4AwDAA6wCyAMA2APzpyTgAwDoAwDwAwD4AwGABAA.&dlo=1&referrer=skype.com
+2015-06-30 18:02:29.504 Skype[8884:111910] CFNetwork SSLHandshake failed (-9806)
+2015-06-30 18:03:21.094 Skype[8884:111910] CFNetwork SSLHandshake failed (-9806)
+2015-06-30 18:03:25.056 Skype[8884:111910] CFNetwork SSLHandshake failed (-9802)
+2015-06-30 18:03:25.057 Skype[8884:111910] NSURLConnection/CFURLConnection HTTP load failed (kCFStreamErrorDomainSSL, -9802)
+2015-06-30 18:04:47.814 Skype[8884:111705] -[SkypeHomeViewController webView:resource:didFailLoadingWithError:fromDataSource:]: timeout on loading resource at URL about:blank
+2015-06-30 18:05:49.962 Skype[8884:111705] -[SkypeHomeViewController webView:resource:didFailLoadingWithError:fromDataSource:]: timeout on loading resource at URL https://apps.skype.com/home/
+2015-06-30 18:07:13.263 Skype[8884:111910] CFNetwork SSLHandshake failed (-9806)
+2015-06-30 18:07:24.632 Skype[8884:111910] CFNetwork SSLHandshake failed (-9802)
+2015-06-30 18:07:25.059 Skype[8884:111910] CFNetwork SSLHandshake failed (-9802)
+2015-06-30 18:07:25.060 Skype[8884:111910] NSURLConnection/CFURLConnection HTTP load failed (kCFStreamErrorDomainSSL, -9802)
+2015-06-30 21:20:35.618 Skype[8884:111705] -[SkypeHomeViewController webView:resource:didFailLoadingWithError:fromDataSource:]: timeout on loading resource at URL https://apps.skype.com/home/
+2015-06-30 21:20:43.127 Skype[8884:111910] CFNetwork SSLHandshake failed (-9806)
+2015-06-30 21:21:47.511 Skype[8884:111705] -[SkypeHomeViewController webView:resource:didFailLoadingWithError:fromDataSource:]: timeout on loading resource at URL https://apps.skype.com/home/
+2015-06-30 21:22:09.940 Skype[8884:111910] CFNetwork SSLHandshake failed (-9806)
+2015-06-30 21:22:58.822 Skype[8884:111910] CFNetwork SSLHandshake failed (-9806)
+2015-06-30 21:23:17.701 Skype[8884:111705] -[SkypeHomeViewController webView:resource:didFailLoadingWithError:fromDataSource:]: timeout on loading resource at URL https://apps.skype.com/home/
+2015-06-30 21:23:44.713 Skype[8884:111910] CFNetwork SSLHandshake failed (-9806)
+2015-06-30 21:24:01.075 Skype[8884:111910] CFNetwork SSLHandshake failed (-9806)
+2015-06-30 21:24:17.216 Skype[8884:111910] CFNetwork SSLHandshake failed (-9806)
+2015-06-30 21:24:17.842 Skype[8884:111705] -[SkypeHomeViewController webView:resource:didFailLoadingWithError:fromDataSource:]: timeout on loading resource at URL https://apps.skype.com/home/
+2015-06-30 21:24:17.842 Skype[8884:111705] -[SkypeHomeViewController webView:resource:didFailLoadingWithError:fromDataSource:]: timeout on loading resource at URL https://apps.skype.com/home/
+2015-06-30 21:24:28.302 Skype[8884:111705] -[SkypeHomeViewController webView:resource:didFailLoadingWithError:fromDataSource:]: timeout on loading resource at URL https://apps.skype.com/home/
+2015-06-30 21:24:28.303 Skype[8884:111705] -[SkypeHomeViewController webView:resource:didFailLoadingWithError:fromDataSource:]: timeout on loading resource at URL https://apps.skype.com/home/
+2015-06-30 21:24:48.608 Skype[8884:111705] -[SkypeHomeViewController webView:resource:didFailLoadingWithError:fromDataSource:]: timeout on loading resource at URL https://apps.skype.com/home/
+2015-06-30 21:24:56.498 Skype[8884:111910] CFNetwork SSLHandshake failed (-9806)
+2015-06-30 21:25:14.757 Skype[8884:111910] CFNetwork SSLHandshake failed (-9806)
+2015-06-30 21:25:53.383 Skype[8884:111705] -[SkypeHomeViewController webView:resource:didFailLoadingWithError:fromDataSource:]: timeout on loading resource at URL https://apps.skype.com/home/
+2015-06-30 21:25:53.383 Skype[8884:111705] -[SkypeHomeViewController webView:resource:didFailLoadingWithError:fromDataSource:]: timeout on loading resource at URL https://apps.skype.com/home/
+2015-06-30 21:25:55.883 Skype[8884:111705] -[SkypeHomeViewController webView:resource:didFailLoadingWithError:fromDataSource:]: timeout on loading resource at URL https://apps.skype.com/home/
+2015-06-30 21:25:58.379 Skype[8884:111705] -[SkypeHomeViewController webView:resource:didFailLoadingWithError:fromDataSource:]: timeout on loading resource at URL https://apps.skype.com/home/
+2015-06-30 21:26:02.891 Skype[8884:111705] -[SkypeHomeViewController webView:resource:didFailLoadingWithError:fromDataSource:]: timeout on loading resource at URL https://apps.skype.com/home/
+2015-06-30 21:26:02.891 Skype[8884:111705] -[SkypeHomeViewController webView:resource:didFailLoadingWithError:fromDataSource:]: timeout on loading resource at URL https://apps.skype.com/home/
+2015-06-30 21:26:02.891 Skype[8884:111705] -[SkypeHomeViewController webView:resource:didFailLoadingWithError:fromDataSource:]: timeout on loading resource at URL (null)
+2015-06-30 21:28:06.518 Skype[8884:111910] CFNetwork SSLHandshake failed (-9806)
+2015-06-30 21:29:17.267 Skype[8884:111705] -[SkypeHomeViewController webView:resource:didFailLoadingWithError:fromDataSource:]: timeout on loading resource at URL https://apps.skype.com/home/
+2015-06-30 21:29:17.267 Skype[8884:111705] -[SkypeHomeViewController webView:resource:didFailLoadingWithError:fromDataSource:]: timeout on loading resource at URL https://apps.skype.com/home/
+2015-06-30 21:29:17.268 Skype[8884:111705] -[SkypeHomeViewController webView:resource:didFailLoadingWithError:fromDataSource:]: timeout on loading resource at URL (null)
+2015-06-30 21:33:54.116 Skype[8884:111705] -[SkypeHomeViewController webView:resource:didFailLoadingWithError:fromDataSource:]: timeout on loading resource at URL (null)
+2015-06-30 21:35:37.346 Skype[8884:111705] -[SkypeHomeViewController webView:resource:didFailLoadingWithError:fromDataSource:]: timeout on loading resource at URL (null)
+2015-06-30 23:13:42.455 Skype[8884:111705] -[SkypeHomeViewController webView:resource:didFailLoadingWithError:fromDataSource:]: timeout on loading resource at URL https://apps.skype.com/home/
+2015-06-30 23:13:42.467 Skype[8884:111705] -[SkypeHomeViewController webView:resource:didFailLoadingWithError:fromDataSource:]: timeout on loading resource at URL https://apps.skype.com/home/
+2015-06-30 23:13:42.474 Skype[8884:111705] -[SkypeHomeViewController webView:resource:didFailLoadingWithError:fromDataSource:]: timeout on loading resource at URL https://apps.skype.com/home/
+2015-06-30 23:36:23.173 Skype[8884:111705] -[WebAdapterWebViewController(WebResourceLoadDelegate) webView:resource:didFailLoadingWithError:fromDataSource:]: WebAdapter resource 0 load failed with error Error Domain=NSURLErrorDomain Code=-1001 "The request timed out." UserInfo=0x111afb520 {NSUnderlyingError=0x111a3a240 "The request timed out.", NSErrorFailingURLStringKey=https://apps.skype.com/adapter/facebook/, NSErrorFailingURLKey=https://apps.skype.com/adapter/facebook/, NSLocalizedDescription=The request timed out.}
+2015-06-30 23:39:15.572 Skype[8884:111705] -[SkypeHomeViewController webView:resource:didFailLoadingWithError:fromDataSource:]: timeout on loading resource at URL (null)
+2015-06-30 23:39:15.572 Skype[8884:111705] -[SkypeHomeViewController webView:resource:didFailLoadingWithError:fromDataSource:]: timeout on loading resource at URL https://apps.skype.com/home/
+2015-06-30 23:39:15.572 Skype[8884:111705] -[SkypeHomeViewController webView:resource:didFailLoadingWithError:fromDataSource:]: timeout on loading resource at URL https://apps.skype.com/home/
+2015-06-30 23:39:15.577 Skype[8884:111705] -[SkypeHomeViewController webView:resource:didFailLoadingWithError:fromDataSource:]: timeout on loading resource at URL https://apps.skype.com/home/
+2015-06-30 23:39:15.577 Skype[8884:111705] -[SkypeHomeViewController webView:resource:didFailLoadingWithError:fromDataSource:]: timeout on loading resource at URL https://apps.skype.com/home/
+2015-06-30 23:39:15.578 Skype[8884:111705] -[SkypeHomeViewController webView:resource:didFailLoadingWithError:fromDataSource:]: timeout on loading resource at URL https://apps.skype.com/home/
+2015-06-30 23:43:11.285 Skype[8884:111705] -[SkypeHomeViewController webView:resource:didFailLoadingWithError:fromDataSource:]: timeout on loading resource at URL (null)
+2015-07-01 18:29:05.767 Skype[8884:111705] -[SkypeHomeViewController webView:resource:didFailLoadingWithError:fromDataSource:]: timeout on loading resource at URL about:blank
+2015-07-01 18:31:54.791 Skype[8884:111705] -[SkypeHomeViewController webView:resource:didFailLoadingWithError:fromDataSource:]: timeout on loading resource at URL (null)
+2015-07-01 18:35:41.140 Skype[8884:111910] CFNetwork SSLHandshake failed (-9806)
+2015-07-01 18:36:09.717 Skype[8884:111705] -[SkypeHomeViewController webView:resource:didFailLoadingWithError:fromDataSource:]: timeout on loading resource at URL https://apps.skype.com/home/
+2015-07-01 18:37:03.961 Skype[8884:111910] CFNetwork SSLHandshake failed (-9806)
+2015-07-01 18:37:49.209 Skype[8884:111705] -[SkypeHomeViewController webView:resource:didFailLoadingWithError:fromDataSource:]: timeout on loading resource at URL http://lax1.ib.adnxs.com/if?e=wqT_3QLqCMhhBAAAAgDWAAUI4oXPrAUQ5NvEnenm2bgzGLr4r4G85MPtTiABKi0JmpmZmZmZ6T8RmpkBCgzpPxkABQEsGEAhAAAAoIwKAEApEQmoMLD2aTiYAkCWB0g5UMeImg5Y49sMYABov4oBcAB44RyAAQGKAQNVU0SSAQEG8MSYAawCoAH6AagBALABALgBAsABBcgBAtABANgBAOABAPABAPoBCFNLWVVTRU40qgIHMjA0NDMxM9gCrAbgAoqaCeoCCXNreXBlLmNvbfICEwoJV0VCTUFTVEVSEgY4NzIwNjTyAiwKBkJJRFRJRBIiQVMzOTg4MTg1MjlmMTk0MWY4OTFiODQ3MDMyMmM1OTllMfICzwEKBElTVFISxgFNakEwTkRNeE16bzNPVG93T2pBdU1EQXlNREExTVRVeE9qQXVNRIIQAHB4T1RVME5qUTNPakU2TVRvd0xqQXdNakF3TlRFMQkQYGs1T1RnMU5EUTZNQzR3TURFeE16RTVNekUNEIBJd01EVXhPVGc2TVRRek5UYzBOakF4TURveE9EbzFPakUBmBB3TVRRMg2k8Eh3TnpZNU56UXpOZ_ICHAoSRVhURVJOQUxfU09VUkNFX0lEEgYzMjA2NjLyAgsKBlJFR0lPThIBMfICGAoLU0lURV9ET01BSU4SLmABaD8KA0JBVhI4L3Y4QVp3QjNBRFVBTVFBd0FEQQEIADAFCChnQTVBRE1BT0FBMwUQAEENIPC3QUEw8gLBAwoFRVhUUkEStwNyaXA9Q2hSbmR6VXhNREF4TkRBeU9UTTROekF3TURBd05CSWlRVk16T1RnNE1UZzFNamxtTVRrME1XWTRPVEZpT0RRM01ETXlNbU0xT1RsbE1SanVCeUlET1RFNEtnWXpNakEyTmpJeUNYTnJlWEJsTG1OdmJUaVo0M3hBVDBnQVVBQllBSERhX2M2c0JYM2JhQU03Z0FFU2lBRUZsUUhHQklBX25RSAUYaHBRRjE5bjhfclFGUlhaUTZ0UUdpYVFNN3ZRSAUgAHgNCPC6elFHSUdRQTcxUUVBQUlBXzNRR2Z5RWs2NGdGS1RWUlJlazVVV1ROT1ZFRTFUVlJ6ZUU5c1VsTk5SMXByV1dwTmVFNVVaM1JOVjFVelQwTXdlRTFYVlRGTVYwVXhUVEpOZEUxRVFYaE9hazVzV1dwVk1FNXFSWGhQYWsweVRsSG9BUUh5QVFkMWJtdHViM2R1X1FIYWFBTTdnQUlBaWdJRlptRnNjMldhQWdDd0FnQzlBZ0FBQUFERkFnQQEJ8FYvcmM9NkE2MzEzMTI2MzU5NkU2NTYyOTI3MDVBNTZBNkJGRDeAAwCIAwGQAwCYAwCgAwGqAwCwAwC4AwDAA6wCyAMA2APzpyTgAwDoAwDwAwD4AwGABAA.&dlo=1&referrer=skype.com
+2015-07-01 18:38:22.674 Skype[8884:111705] -[SkypeHomeViewController webView:resource:didFailLoadingWithError:fromDataSource:]: timeout on loading resource at URL about:blank
+2015-07-01 18:39:41.299 Skype[8884:111910] NSURLConnection/CFURLConnection HTTP load failed (kCFStreamErrorDomainSSL, -9813)
+2015-07-01 18:39:41.299 Skype[8884:111910] CFNetwork SSLHandshake failed (-9806)
+2015-07-01 18:52:08.135 Skype[8884:111910] CFNetwork SSLHandshake failed (-9806)
+2015-07-01 18:53:22.309 Skype[8884:111705] -[SkypeHomeViewController webView:resource:didFailLoadingWithError:fromDataSource:]: timeout on loading resource at URL (null)
+2015-07-01 18:54:34.313 Skype[8884:111910] CFNetwork SSLHandshake failed (-9806)
+2015-07-01 18:55:36.414 Skype[8884:111705] -[SkypeHomeViewController webView:resource:didFailLoadingWithError:fromDataSource:]: timeout on loading resource at URL about:blank
+2015-07-01 18:55:37.917 Skype[8884:111705] -[SkypeHomeViewController webView:resource:didFailLoadingWithError:fromDataSource:]: timeout on loading resource at URL https://apps.skype.com/home/
+2015-07-01 19:52:03.343 Skype[8884:111910] CFNetwork SSLHandshake failed (-9806)
+2015-07-01 19:52:07.232 Skype[8884:111910] CFNetwork SSLHandshake failed (-9802)
+2015-07-01 19:52:26.971 Skype[8884:111910] CFNetwork SSLHandshake failed (-9824)
+2015-07-01 19:52:26.972 Skype[8884:111910] NSURLConnection/CFURLConnection HTTP load failed (kCFStreamErrorDomainSSL, -9824)
+2015-07-01 21:50:18.589 Skype[8884:111910] CFNetwork SSLHandshake failed (-9806)
+2015-07-01 21:51:00.908 Skype[8884:111705] -[SkypeHomeViewController webView:resource:didFailLoadingWithError:fromDataSource:]: timeout on loading resource at URL https://apps.skype.com/home/
+2015-07-01 21:51:00.941 Skype[8884:111705] -[SkypeHomeViewController webView:resource:didFailLoadingWithError:fromDataSource:]: timeout on loading resource at URL https://apps.skype.com/home/
+2015-07-01 21:51:23.415 Skype[8884:111910] CFNetwork SSLHandshake failed (-9806)
+2015-07-01 21:51:27.180 Skype[8884:111705] -[SkypeHomeViewController webView:resource:didFailLoadingWithError:fromDataSource:]: timeout on loading resource at URL https://apps.skype.com/home/
+2015-07-01 21:51:34.908 Skype[8884:111705] -[SkypeHomeViewController webView:resource:didFailLoadingWithError:fromDataSource:]: timeout on loading resource at URL https://static.skypeassets.com/adserver/AdLoader.html?version=1.66.9#pgqp:%26SKID%3D99c6e56982717a472c996d75e92e3c30%26PG%3DSKYUSEN4%26AP%3D2370%26GENDER%3DM%26CAGE%3D30%26sklang%3Den;wt:300;ht:280;tkn:177085;divid:feedAdMarkup
+2015-07-01 21:51:34.946 Skype[8884:111705] -[SkypeHomeViewController webView:resource:didFailLoadingWithError:fromDataSource:]: timeout on loading resource at URL https://static.skypeassets.com/adserver/AdLoader.html?version=1.66.9#pgqp:%26SKID%3D99c6e56982717a472c996d75e92e3c30%26PG%3DSKYUSEN4%26AP%3D2370%26GENDER%3DM%26CAGE%3D30%26sklang%3Den;wt:300;ht:280;tkn:177085;divid:feedAdMarkup
+2015-07-01 21:51:40.217 Skype[8884:111705] -[SkypeHomeViewController webView:resource:didFailLoadingWithError:fromDataSource:]: timeout on loading resource at URL https://apps.skype.com/home/
+2015-07-01 22:06:23.832 Skype[8884:111705] -[SkypeHomeViewController webView:resource:didFailLoadingWithError:fromDataSource:]: timeout on loading resource at URL about:blank
+2015-07-01 22:07:55.572 Skype[8884:111705] -[SkypeHomeViewController webView:resource:didFailLoadingWithError:fromDataSource:]: timeout on loading resource at URL (null)
+2015-07-01 22:08:23.580 Skype[8884:111910] CFNetwork SSLHandshake failed (-9806)
+2015-07-01 22:08:42.755 Skype[8884:111910] CFNetwork SSLHandshake failed (-9806)
+2015-07-01 22:11:20.656 Skype[8884:111705] -[SkypeHomeViewController webView:resource:didFailLoadingWithError:fromDataSource:]: timeout on loading resource at URL about:blank
+2015-07-01 22:20:41.380 Skype[8884:111705] -[SkypeHomeViewController webView:resource:didFailLoadingWithError:fromDataSource:]: timeout on loading resource at URL about:blank
+2015-07-01 22:21:57.613 Skype[8884:111705] -[SkypeHomeViewController webView:resource:didFailLoadingWithError:fromDataSource:]: timeout on loading resource at URL http://lax1.ib.adnxs.com/if?e=wqT_3QKwA8inAQAAAgDWAAUI6e7PrAUQjcLx-p6Jw5BqGPTr5vXJmf-FXSABKi0JmpmZmZmZ6T8RmpkBCgzpPxkABQEsGEAhKVyPwvUo9D8pEQmwMLD2aTiYAkD7D0jhAVC36dEMWOPbDGAAaL-KAXAAeIXlAoABAYoBA1VTRJIBAQbwcpgBrAKgAfoBqAEAsAEAuAECwAEFyAEC0AEA2AEA4AEA8AEA-gEIU0tZVVNFTjSSAhdCNEJCQkNfNkVBN0VGNkZfMUU0NDRDMNgCrAbgAoqaCeoCCXNreXBlLmNvbfICigEKCFFTUEFSQU1TEn5taWQ9QjRSQADwoiZicD0xLjI2JmRtPTg3QzAyRUUwRDhDOTgzRTczNUMzRTMxRUU3RjU4NjU5JnJpPTAmdj1LWWdrNGsxRmVmYyZhZGlkPTEmdXVpZD1CTW1uNHh2WW1hZk9weXRMUThnVFdITfICCgoCU1ASBHNwYW6AAwCIAwGQAwCYAwCgAwGqAwCwAwC4AwDAA6wCyAMA2APzpyTgAwDoAwDwAwD4AwGABAA.&dlo=1&referrer=skype.com
+2015-07-01 22:21:57.619 Skype[8884:111910] CFNetwork SSLHandshake failed (-9806)
+2015-07-01 23:24:59.036 Skype[8884:111910] CFNetwork SSLHandshake failed (-9806)
+2015-07-01 23:25:51.288 Skype[8884:111910] CFNetwork SSLHandshake failed (-9806)
+2015-07-01 23:25:53.001 Skype[8884:111910] CFNetwork SSLHandshake failed (-9802)
+2015-07-01 23:36:44.519 Skype[8884:111705] -[SkypeHomeViewController webView:resource:didFailLoadingWithError:fromDataSource:]: timeout on loading resource at URL https://az361816.vo.msecnd.net/flextag/flextag.html?guid=fe4e1784-6095-48f7-8fa2-84975f30fc41
+2015-07-02 10:50:28.884 Skype[8884:111705] -[SkypeHomeViewController webView:resource:didFailLoadingWithError:fromDataSource:]: timeout on loading resource at URL about:blank
+2015-07-02 10:51:30.501 Skype[8884:111705] -[SkypeHomeViewController webView:resource:didFailLoadingWithError:fromDataSource:]: timeout on loading resource at URL https://apps.skype.com/home/
+2015-07-02 10:51:30.501 Skype[8884:111705] -[SkypeHomeViewController webView:resource:didFailLoadingWithError:fromDataSource:]: timeout on loading resource at URL (null)
+2015-07-02 10:53:27.353 Skype[8884:111910] CFNetwork SSLHandshake failed (-9806)
+2015-07-02 10:53:27.966 Skype[8884:111910] CFNetwork SSLHandshake failed (-9802)
+2015-07-02 10:53:29.397 Skype[8884:111910] CFNetwork SSLHandshake failed (-9802)
+2015-07-02 10:53:29.397 Skype[8884:111910] NSURLConnection/CFURLConnection HTTP load failed (kCFStreamErrorDomainSSL, -9802)
+2015-07-02 10:56:38.198 Skype[8884:111705] -[SkypeHomeViewController webView:resource:didFailLoadingWithError:fromDataSource:]: timeout on loading resource at URL about:blank
+2015-07-02 13:44:20.534 Skype[8884:111910] CFNetwork SSLHandshake failed (-9806)
+<<<< MediaValidator >>>> mv_ValidateRFC4281CodecId: Unrecognized codec 1.(null). Failed codec specific check.
+<<<< MediaValidator >>>> mv_LookupCodecSupport: Unrecognized codec 1
+[13:57:54.691] mv_LowLevelCheckIfVideoPlayableUsingDecoder signalled err=-12956 (kFigMediaValidatorError_VideoCodecNotSupported) (video codec 1) at  line 1851
+<<<< MediaValidator >>>> mv_TestCodecSupportUsingDecoders: Unrecognized codec 1
+<<<< MediaValidator >>>> mv_ValidateRFC4281CodecId: Unrecognized codec 1.(null). Failed codec specific check.
+<<<< MediaValidator >>>> mv_LookupCodecSupport: Unrecognized codec 1
+[13:57:54.691] mv_LowLevelCheckIfVideoPlayableUsingDecoder signalled err=-12956 (kFigMediaValidatorError_VideoCodecNotSupported) (video codec 1) at  line 1851
+<<<< MediaValidator >>>> mv_TestCodecSupportUsingDecoders: Unrecognized codec 1
+2015-07-02 21:51:35.483 Skype[8884:111910] CFNetwork SSLHandshake failed (-9806)
+2015-07-02 22:53:35.401 Skype[8884:111910] CFNetwork SSLHandshake failed (-9806)
+2015-07-02 22:54:37.322 Skype[8884:111705] -[SkypeHomeViewController webView:resource:didFailLoadingWithError:fromDataSource:]: timeout on loading resource at URL (null)
+2015-07-02 22:57:14.317 Skype[8884:111910] CFNetwork SSLHandshake failed (-9806)
+2015-07-02 22:57:22.195 Skype[8884:111910] NSURLConnection/CFURLConnection HTTP load failed (kCFStreamErrorDomainSSL, -9813)
+2015-07-02 22:57:27.745 Skype[8884:111910] CFNetwork SSLHandshake failed (-9802)
+2015-07-02 22:57:30.304 Skype[8884:111910] CFNetwork SSLHandshake failed (-9802)
+2015-07-02 22:57:30.304 Skype[8884:111910] NSURLConnection/CFURLConnection HTTP load failed (kCFStreamErrorDomainSSL, -9802)
+2015-07-02 22:59:09.489 Skype[8884:111910] NSURLConnection/CFURLConnection HTTP load failed (kCFStreamErrorDomainSSL, -9813)
+2015-07-02 23:00:03.785 Skype[8884:111705] -[SkypeHomeViewController webView:resource:didFailLoadingWithError:fromDataSource:]: timeout on loading resource at URL (null)
+2015-07-02 23:00:35.347 Skype[8884:111910] CFNetwork SSLHandshake failed (-9806)
+2015-07-02 23:00:54.825 Skype[8884:111910] CFNetwork SSLHandshake failed (-9806)
+2015-07-02 23:01:22.192 Skype[8884:111705] -[SkypeHomeViewController webView:resource:didFailLoadingWithError:fromDataSource:]: timeout on loading resource at URL (null)
+2015-07-02 23:37:38.417 Skype[8884:111910] NSURLConnection/CFURLConnection HTTP load failed (kCFStreamErrorDomainSSL, -9813)
+2015-07-02 23:37:51.342 Skype[8884:111910] CFNetwork SSLHandshake failed (-9806)
+2015-07-02 23:37:52.043 Skype[8884:111910] CFNetwork SSLHandshake failed (-9802)
+2015-07-02 23:38:06.012 Skype[8884:111910] CFNetwork SSLHandshake failed (-9802)
+2015-07-02 23:38:06.013 Skype[8884:111910] NSURLConnection/CFURLConnection HTTP load failed (kCFStreamErrorDomainSSL, -9802)
+2015-07-02 23:40:03.322 Skype[8884:111910] CFNetwork SSLHandshake failed (-9806)
+2015-07-02 23:40:06.329 Skype[8884:111910] CFNetwork SSLHandshake failed (-9806)
+2015-07-02 23:40:06.331 Skype[8884:111910] CFNetwork SSLHandshake failed (-9806)
+2015-07-02 23:40:06.331 Skype[8884:111910] NSURLConnection/CFURLConnection HTTP load failed (kCFStreamErrorDomainSSL, -9806)
+2015-07-02 23:40:08.779 Skype[8884:111910] CFNetwork SSLHandshake failed (-9806)
+2015-07-02 23:40:08.779 Skype[8884:111910] NSURLConnection/CFURLConnection HTTP load failed (kCFStreamErrorDomainSSL, -9806)
+2015-07-02 23:43:46.568 Skype[8884:111705] -[SkypeHomeViewController webView:resource:didFailLoadingWithError:fromDataSource:]: timeout on loading resource at URL about:blank
+2015-07-02 23:44:33.420 Skype[8884:111910] CFNetwork SSLHandshake failed (-9806)
+2015-07-02 23:44:35.928 Skype[8884:111910] CFNetwork SSLHandshake failed (-9802)
+2015-07-02 23:44:39.753 Skype[8884:111910] CFNetwork SSLHandshake failed (-9802)
+2015-07-02 23:44:39.754 Skype[8884:111910] NSURLConnection/CFURLConnection HTTP load failed (kCFStreamErrorDomainSSL, -9802)
+2015-07-02 23:46:41.611 Skype[8884:111910] CFNetwork SSLHandshake failed (-9806)
+2015-07-02 23:46:42.926 Skype[8884:111910] CFNetwork SSLHandshake failed (-9806)
+2015-07-02 23:46:45.070 Skype[8884:111910] CFNetwork SSLHandshake failed (-9806)
+2015-07-02 23:46:45.752 Skype[8884:111910] CFNetwork SSLHandshake failed (-9802)
+2015-07-02 23:46:46.939 Skype[8884:111910] CFNetwork SSLHandshake failed (-9806)
+2015-07-02 23:46:47.734 Skype[8884:111910] CFNetwork SSLHandshake failed (-9802)
+2015-07-02 23:46:47.735 Skype[8884:111910] NSURLConnection/CFURLConnection HTTP load failed (kCFStreamErrorDomainSSL, -9802)
+2015-07-02 23:47:18.530 Skype[8884:111910] CFNetwork SSLHandshake failed (-9806)
+2015-07-02 23:47:19.748 Skype[8884:111910] CFNetwork SSLHandshake failed (-9802)
+2015-07-02 23:47:20.309 Skype[8884:111910] CFNetwork SSLHandshake failed (-9802)
+2015-07-02 23:47:20.310 Skype[8884:111910] NSURLConnection/CFURLConnection HTTP load failed (kCFStreamErrorDomainSSL, -9802)

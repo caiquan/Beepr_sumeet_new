@@ -1,0 +1,31 @@
+2015-07-10 08:31:43.461 Skype[27107:749209] -[SkypeAPIController init] Failed to set up connection in API controller
+2015-07-10 08:31:55.561 Skype[27107:749209] -[BAExternal getAPIWithVersion:token:]: JSAPI access requires key, but webapp did not present good key
+2015-07-10 08:31:55.576 Skype[27107:749209] -[WebAdapterWebViewController(WebResourceLoadDelegate) webView:resource:didFailLoadingWithError:fromDataSource:]: WebAdapter resource 1 load failed with error Error Domain=NSURLErrorDomain Code=-1003 "A server with the specified hostname could not be found." UserInfo=0x7fea995e0190 {NSUnderlyingError=0x7fea995b3b70 "A server with the specified hostname could not be found.", NSErrorFailingURLStringKey=https://connect.facebook.net/en_US/sdk.js, NSErrorFailingURLKey=https://connect.facebook.net/en_US/sdk.js, _kCFStreamErrorDomainKey=12, _kCFStreamErrorCodeKey=8, NSLocalizedDescription=A server with the specified hostname could not be found.}
+2015-07-10 08:32:41.956 Skype[27107:749209] Application is not entitled to access AddressBook contacts
+2015-07-10 10:35:40.040 Skype[27107:749209] -[SkypeHomeViewController webView:resource:didFailLoadingWithError:fromDataSource:]: timeout on loading resource at URL (null)
+2015-07-10 10:59:47.946 Skype[27107:749209] -[SkypeHomeViewController webView:resource:didFailLoadingWithError:fromDataSource:]: timeout on loading resource at URL (null)
+2015-07-10 11:16:24.994 Skype[27107:749209] -[SkypeHomeViewController webView:resource:didFailLoadingWithError:fromDataSource:]: timeout on loading resource at URL (null)
+2015-07-10 16:34:53.443 Skype[27107:749304] CFNetwork SSLHandshake failed (-9806)
+2015-07-10 16:38:12.458 Skype[27107:749209] -[SkypeHomeViewController webView:resource:didFailLoadingWithError:fromDataSource:]: timeout on loading resource at URL (null)
+2015-07-10 16:41:03.678 Skype[27107:749304] NSURLConnection/CFURLConnection HTTP load failed (kCFStreamErrorDomainSSL, -9813)
+2015-07-10 16:41:31.645 Skype[27107:749304] NSURLConnection/CFURLConnection HTTP load failed (kCFStreamErrorDomainSSL, -9813)
+2015-07-10 16:42:46.061 Skype[27107:749304] NSURLConnection/CFURLConnection HTTP load failed (kCFStreamErrorDomainSSL, -9813)
+2015-07-10 16:43:40.523 Skype[27107:749209] -[SkypeHomeViewController webView:resource:didFailLoadingWithError:fromDataSource:]: timeout on loading resource at URL https://apps.skype.com/home/
+2015-07-10 16:44:53.270 Skype[27107:749304] NSURLConnection/CFURLConnection HTTP load failed (kCFStreamErrorDomainSSL, -9813)
+2015-07-10 16:45:37.727 Skype[27107:749304] NSURLConnection/CFURLConnection HTTP load failed (kCFStreamErrorDomainSSL, -9813)
+2015-07-10 16:46:15.688 Skype[27107:749304] NSURLConnection/CFURLConnection HTTP load failed (kCFStreamErrorDomainSSL, -9813)
+2015-07-10 17:01:12.923 Skype[27107:749304] NSURLConnection/CFURLConnection HTTP load failed (kCFStreamErrorDomainSSL, -9813)
+2015-07-10 17:02:03.662 Skype[27107:749304] NSURLConnection/CFURLConnection HTTP load failed (kCFStreamErrorDomainSSL, -9813)
+2015-07-10 17:02:27.253 Skype[27107:749304] NSURLConnection/CFURLConnection HTTP load failed (kCFStreamErrorDomainSSL, -9813)
+2015-07-10 17:03:06.838 Skype[27107:749304] NSURLConnection/CFURLConnection HTTP load failed (kCFStreamErrorDomainSSL, -9813)
+2015-07-10 17:04:00.457 Skype[27107:749304] NSURLConnection/CFURLConnection HTTP load failed (kCFStreamErrorDomainSSL, -9813)
+2015-07-10 17:05:06.942 Skype[27107:749304] NSURLConnection/CFURLConnection HTTP load failed (kCFStreamErrorDomainSSL, -9813)
+2015-07-10 17:06:30.673 Skype[27107:749209] -[SkypeHomeViewController webView:resource:didFailLoadingWithError:fromDataSource:]: timeout on loading resource at URL about:blank
+2015-07-10 17:06:41.440 Skype[27107:749304] NSURLConnection/CFURLConnection HTTP load failed (kCFStreamErrorDomainSSL, -9813)
+2015-07-10 17:07:20.049 Skype[27107:749304] NSURLConnection/CFURLConnection HTTP load failed (kCFStreamErrorDomainSSL, -9813)
+2015-07-10 17:08:19.034 Skype[27107:749209] -[SkypeHomeViewController webView:resource:didFailLoadingWithError:fromDataSource:]: timeout on loading resource at URL https://apps.skype.com/home/
+2015-07-10 17:08:36.777 Skype[27107:749304] NSURLConnection/CFURLConnection HTTP load failed (kCFStreamErrorDomainSSL, -9813)
+2015-07-10 17:09:19.749 Skype[27107:749304] NSURLConnection/CFURLConnection HTTP load failed (kCFStreamErrorDomainSSL, -9813)
+2015-07-10 17:10:18.332 Skype[27107:749304] NSURLConnection/CFURLConnection HTTP load failed (kCFStreamErrorDomainSSL, -9813)
+2015-07-10 17:11:23.864 Skype[27107:749209] -[SkypeHomeViewController webView:resource:didFailLoadingWithError:fromDataSource:]: timeout on loading resource at URL https://apps.skype.com/home/
+2015-07-10 17:14:26.569 Skype[27107:749209] -[SkypeHomeViewController webView:resource:didFailLoadingWithError:fromDataSource:]: timeout on loading resource at URL (null)
